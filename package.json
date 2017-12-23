@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/connorleach820/Bamazon"
   },
-  "homepage": "https://github.com/angrbrd/bamazon#readme",
+  "homepage": "https://github.com/connorleach820/Bamazon",
   "dependencies": {
     "inquirer": "^4.0.1",
     "mysql": "^2.15.0"
